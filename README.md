@@ -37,8 +37,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/resnponsive-social-media-dashboard-c_95ZatVC9)
+- Live Site URL: [GitHub](https://nicoams.github.io/social-media-dashboard/)
 
 ## My process
 
